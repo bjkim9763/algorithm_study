@@ -19,4 +19,4 @@ def cook(total_amount):
     return dp[total_amount]
 
 ans = cook(N)
-print(ans)
+print(ans) # 웍
